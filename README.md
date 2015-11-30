@@ -1,6 +1,6 @@
 # STUN IP Address requests for WebRTC
 
-Demo: https://diafygi.github.io/webrtc-ips/
+Demo: https://mattcobb.github.io/webrtc-ips/
 
 ### What this does
 
